@@ -2015,6 +2015,22 @@
     "iso_numeric": "694",
     "smallest_denomination": 1000
   },
+  "sle": {
+    "priority": 100,
+    "iso_code": "SLE",
+    "name": "New Leone",
+    "symbol": "Le",
+    "alternate_symbols": [],
+    "subunit": "Cent",
+    "subunit_to_unit": 100,
+    "symbol_first": false,
+    "format": "%n %u",
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "925",
+    "smallest_denomination": 1000
+  },
   "sos": {
     "priority": 100,
     "iso_code": "SOS",
